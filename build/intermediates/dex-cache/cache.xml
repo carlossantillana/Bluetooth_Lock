@@ -3,12 +3,39 @@
 
     <item
         is-multidex="true"
-        jar="/home/carlos/Downloads/Android/BLEDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/home/carlos/.android/build-cache/45acd0c4b8d1e68df05ee7e0305b9936dbab23c7/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="f7ea0a3f3af841d1b25520da7811fdc6a23c122e">
-        <dex dex="/home/carlos/Downloads/Android/BLEDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_94e7ed40542faf501ff73bd2d9b87e46e78dcdc0/classes.dex" />
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/carlos/Downloads/Android/BLEDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0735c3a8cab0458be41da4571f78460f79e657b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/carlos/.android/build-cache/56389b94c9675e4a41dc2a3259a4390cdd58fdfa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/carlos/Downloads/Android/BLEDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_13bd1d89d085a61a7c09b03ff637b1c6f75040c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/carlos/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/carlos/Downloads/Android/BLEDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_aa92e322c534338f3308947d9d135a027b70c49e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/carlos/.android/build-cache/059969d0cb456e8d2c4a737418ef17479e5044c2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/carlos/Downloads/Android/BLEDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_15d8a18b7201de6222c89a50b0b94e7a119abd84/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -21,12 +48,48 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/carlos/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jar="/home/carlos/.android/build-cache/a3906a3fd081bc93dc4266715b8c696e51bafd5e/output/jars/libs/internal_impl-23.4.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="/home/carlos/Downloads/Android/BLEDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_454fce3dcdddad87a0bf78abbc587e0215fb5f15/classes.dex" />
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/carlos/Downloads/Android/BLEDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_ac1ef7ccc1469cc8a1d58ed7f0c2c25b764fbf7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/carlos/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/carlos/Downloads/Android/BLEDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_f0f16f5b20abf8cd9f44b58a9950b18c8a3eb248/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/carlos/.android/build-cache/a3906a3fd081bc93dc4266715b8c696e51bafd5e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/carlos/Downloads/Android/BLEDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e39aa21f84bb794274dbdf1e3608f715a25546a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/carlos/Downloads/Android/BLEDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1598f1afac38a5cd05bc900fa13aac6bdf53623f">
+        <dex dex="/home/carlos/Downloads/Android/BLEDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_94e7ed40542faf501ff73bd2d9b87e46e78dcdc0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/carlos/.android/build-cache/f646ed6961610b41fa17d35ecf5d7dd0ae7eb030/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/carlos/Downloads/Android/BLEDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_55774f8c64a87519cc3a8a56566f9ebf4400f53d/classes.dex" />
     </item>
 
 </items>

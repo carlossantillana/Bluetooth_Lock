@@ -1,4 +1,4 @@
-#Sun May 14 23:26:11 PDT 2017
+#Sun May 14 23:45:38 PDT 2017
 base.0=/home/carlos/Downloads/Android/BLEDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_94e7ed40542faf501ff73bd2d9b87e46e78dcdc0
 renamed.1=classes2.dex
 renamed.0=classes.dex

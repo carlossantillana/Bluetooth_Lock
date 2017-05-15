@@ -1,4 +1,25 @@
-#Sun May 14 23:07:42 PDT 2017
-base.0=/home/carlos/Downloads/Android/BLEDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_454fce3dcdddad87a0bf78abbc587e0215fb5f15
-renamed.0=classes.dex
-file.0=/home/carlos/Downloads/Android/BLEDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_454fce3dcdddad87a0bf78abbc587e0215fb5f15/classes.dex
+#Sun May 14 23:44:16 PDT 2017
+renamed.7=classes6.dex
+renamed.6=classes7.dex
+renamed.5=classes2.dex
+renamed.4=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes5.dex
+renamed.1=classes3.dex
+renamed.0=classes8.dex
+base.7=/home/carlos/Downloads/Android/BLEDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_f0f16f5b20abf8cd9f44b58a9950b18c8a3eb248
+base.6=/home/carlos/Downloads/Android/BLEDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e39aa21f84bb794274dbdf1e3608f715a25546a2
+base.5=/home/carlos/Downloads/Android/BLEDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_55774f8c64a87519cc3a8a56566f9ebf4400f53d
+base.4=/home/carlos/Downloads/Android/BLEDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0735c3a8cab0458be41da4571f78460f79e657b8
+base.3=/home/carlos/Downloads/Android/BLEDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_aa92e322c534338f3308947d9d135a027b70c49e
+base.2=/home/carlos/Downloads/Android/BLEDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_15d8a18b7201de6222c89a50b0b94e7a119abd84
+base.1=/home/carlos/Downloads/Android/BLEDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_ac1ef7ccc1469cc8a1d58ed7f0c2c25b764fbf7e
+base.0=/home/carlos/Downloads/Android/BLEDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_13bd1d89d085a61a7c09b03ff637b1c6f75040c0
+file.7=/home/carlos/Downloads/Android/BLEDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_f0f16f5b20abf8cd9f44b58a9950b18c8a3eb248/classes.dex
+file.6=/home/carlos/Downloads/Android/BLEDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e39aa21f84bb794274dbdf1e3608f715a25546a2/classes.dex
+file.5=/home/carlos/Downloads/Android/BLEDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_55774f8c64a87519cc3a8a56566f9ebf4400f53d/classes.dex
+file.4=/home/carlos/Downloads/Android/BLEDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0735c3a8cab0458be41da4571f78460f79e657b8/classes.dex
+file.3=/home/carlos/Downloads/Android/BLEDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_aa92e322c534338f3308947d9d135a027b70c49e/classes.dex
+file.2=/home/carlos/Downloads/Android/BLEDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_15d8a18b7201de6222c89a50b0b94e7a119abd84/classes.dex
+file.1=/home/carlos/Downloads/Android/BLEDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_ac1ef7ccc1469cc8a1d58ed7f0c2c25b764fbf7e/classes.dex
+file.0=/home/carlos/Downloads/Android/BLEDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_13bd1d89d085a61a7c09b03ff637b1c6f75040c0/classes.dex
