@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/carlos/Downloads/Android/BLEDemo/app/build/intermediates/res/merged/debug/menu/peripheral.xml",
+        "source": "/home/carlos/Downloads/Android/BLEDemo/app/src/main/res/menu/peripheral.xml"
+    },
+    {
+        "merged": "/home/carlos/Downloads/Android/BLEDemo/app/build/intermediates/res/merged/debug/menu/scanning.xml",
+        "source": "/home/carlos/Downloads/Android/BLEDemo/app/src/main/res/menu/scanning.xml"
+    }
+]

@@ -1,0 +1,4 @@
+#Sun May 14 23:07:42 PDT 2017
+base.0=/home/carlos/Downloads/Android/BLEDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_454fce3dcdddad87a0bf78abbc587e0215fb5f15
+renamed.0=classes.dex
+file.0=/home/carlos/Downloads/Android/BLEDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_454fce3dcdddad87a0bf78abbc587e0215fb5f15/classes.dex
